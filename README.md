@@ -1,5 +1,5 @@
 # OpenADMET
 
-This is the github repo for my submissions for the OpenADMET Challenge. I will update the code as my results progress.
+This is the github repo for my submissions for the OpenADMET Challenge. I will update this repo before submitting my results.
 
-For now, I used this exact code for my latest submission.
+For now, it is empty.
